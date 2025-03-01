@@ -1,5 +1,5 @@
 # Stable-Diffusion-GenAI-Demo
-A WebUI for OpenVINO-GenAI in Stable Diffusion.
+A Tiny WebUI for OpenVINO-GenAI in Stable Diffusion.
 
 ![demo](demo.png)
 
